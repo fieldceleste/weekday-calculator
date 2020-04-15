@@ -1,5 +1,5 @@
 body {
-  background-color: whitesmoke;
+  background-color: white;
 }
 
 #caption {
@@ -8,12 +8,10 @@ body {
   padding-right: 320px;
 }
 
-#col {
-  width: 400px;
-}
 
-#dateInput {
-  background-color: white;
+
+#date-input {
+  background-color: whitesmoke;
   border: solid black 1px;
 }
 
@@ -21,9 +19,14 @@ h1 {
   font-family: cursive;
 }
 
-#old {
+img {
   width: 400px;
 }
-  #result {
+
+#result {
+  display: none;
+}
+
+#string {
   display: none;
 }
