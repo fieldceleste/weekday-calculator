@@ -13,15 +13,15 @@ _Current Version April 15, 2020._
 | :------------- | :----------: | -----------: |
 |It should return a day of the week.|4-15-2020| [Wednesday]|
 |It should increase by a year on the same date inputted.| 4-15-2019 | [Monday]
-|Program displays roll total on screen. | 5 | [Player 1: 5]|
-|Program determines if dice roll is greater than >1| 2 | [Add 2 to total]|
-|If total is greater to or equal to 100, player winns game.| Total Roll: 101 | [Alert: Player wins game]|
+|It should take in consideration a leap year and add two days to inputted date.| 4-15-2021| [Thursday]|
+|It should show number days in the month| 4-15-2020 | [15th]|
+|With years divisible by 100, it should move that day of the week up one day.| 4-15-2200 | [Friday]|
 
 
 
 ## Setup/Installation Requirements
 
-* _Clone the github repository $ git clone https://github.com/Jozypants/pigDice.git_
+* _Clone the github repository $ git clone https://github.com/fieldceleste/weekday-calculator.git_
 * _Copy the HTTP code_
 * _Open the terminal_
 * _Type git clone in the terminal and press enter_
@@ -33,7 +33,7 @@ _Current Version April 15, 2020._
 
 ## Support and contact details
 
-_If you run into any issues please contact fieldceleste@gmail.com_ or jozypants@gmail.com_
+_If you run into any issues please contact fieldceleste@gmail.com_
 
 ## Technologies Used
 
@@ -43,4 +43,4 @@ _This application was used with Javascript, Bootstrap, Css, Jquery, and Html_
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_Celeste Field_** **_Jozy Kinnaman_**
+Copyright (c) 2020 **_Celeste Field_** **_Maria Lagunero_****_Erik Grove_**

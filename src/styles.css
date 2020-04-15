@@ -1,3 +1,29 @@
 body {
-  background-color: #7FDBFF;
+  background-color: whitesmoke;
+}
+
+#caption {
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right: 320px;
+}
+
+#col {
+  width: 400px;
+}
+
+#dateInput {
+  background-color: white;
+  border: solid black 1px;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+#old {
+  width: 400px;
+}
+  #result {
+  display: none;
 }

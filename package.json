@@ -1,5 +1,5 @@
 {
-  "name": "new-templete",
+  "name": "weekday-calculator",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "debug": "node --inspect node_modules/.bin/jest --runInBand"
   },
   "keywords": [],
-  "author": "",
+  "author": "Celeste Field, Maria Lagunero, Erik Grove",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
@@ -31,5 +31,14 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0"
-  }
+  },
+  "description": "#### _This is an Epicodus project that creates an app for calculating the day for any given date.The user should be able to enter in a date and see what day of the week that date occured on.The program should be able to handle past dates, future dates, and invalid dates (user should be notified if the date is invalid). _",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fieldceleste/weekday-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fieldceleste/weekday-calculator/issues"
+  },
+  "homepage": "https://github.com/fieldceleste/weekday-calculator#readme"
 }
